@@ -1,10 +1,6 @@
 # Timerapp
 
-
-
-[TOCM]
-
-[TOC]
+![](https://github.com/Andres-Debugger/Timerapp/blob/Development/Mockup/Mockup.png?raw=true)
 
 #What is Timerapp?
 This is a fully customizable, cross-platform job period alarm and at the same time works as a single-page application.
